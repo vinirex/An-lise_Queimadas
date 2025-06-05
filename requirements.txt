@@ -2,6 +2,6 @@ streamlit
 matplotlib
 pandas
 numpy
-scipy.stats
+scipy
 seaborn
 datetime
